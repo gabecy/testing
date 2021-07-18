@@ -1,6 +1,11 @@
 <?php
 
-class Product {}
+namespace App;
+
+class Product {
+
+
+}
 
 
 ?>
